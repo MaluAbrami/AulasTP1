@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\bin\Debug\net8.0\EstruturasDeDecisao.exe
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\bin\Debug\net8.0\EstruturasDeDecisao.deps.json
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\bin\Debug\net8.0\EstruturasDeDecisao.runtimeconfig.json
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\bin\Debug\net8.0\EstruturasDeDecisao.dll
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\bin\Debug\net8.0\EstruturasDeDecisao.pdb
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\obj\Debug\net8.0\EstruturasDeDecisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\obj\Debug\net8.0\EstruturasDeDecisao.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\obj\Debug\net8.0\EstruturasDeDecisao.AssemblyInfo.cs
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\obj\Debug\net8.0\EstruturasDeDecisao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\obj\Debug\net8.0\EstruturasDeDecisao.dll
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\obj\Debug\net8.0\refint\EstruturasDeDecisao.dll
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\obj\Debug\net8.0\EstruturasDeDecisao.pdb
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\obj\Debug\net8.0\EstruturasDeDecisao.genruntimeconfig.cache
+C:\Users\aluno\source\repos\EstruturasDeDecisao\EstruturasDeDecisao\obj\Debug\net8.0\ref\EstruturasDeDecisao.dll
