@@ -147,3 +147,78 @@ else
     Console.WriteLine($"Doação bloqueada, doador {doador} e receptor {receptor} são incompatíveis");
 }
 */
+
+/* EXERCICIO 7
+Console.WriteLine("Informe sua altura em metros: ");
+double altura = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("Informe se é homem(M) ou mulher(F): ");
+string sexo = Console.ReadLine();
+
+double pesoIdeal;
+
+if(sexo.ToLower() == "m")
+{
+    pesoIdeal = 72.7 * altura - 58;
+    Console.WriteLine($"Seu peso ideal é {pesoIdeal}");
+}
+else if(sexo.ToLower() == "f")
+{
+    pesoIdeal = 62.1 * altura - 44.7;
+    Console.WriteLine($"Seu peso ideal é {pesoIdeal}");
+}
+else
+{
+    Console.WriteLine("Resposta inválida. Digite M para homem e F para mulher");
+}
+*/
+
+/* EXERCICIO 8
+Console.WriteLine("Informe o valor do empréstimo: ");
+double valorEmprestimo = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("Informe o número de parcelas: ");
+int numParcelas = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Informe o salário bruto do cliente: ");
+double salarioCliente = Convert.ToDouble(Console.ReadLine());
+
+double parcela = valorEmprestimo / numParcelas;
+
+if(parcela <= salarioCliente / 4)
+{
+    Console.WriteLine($"Empréstimo aprovado! Com {numParcelas} parcelas de {parcela}");
+}
+else
+{
+    Console.WriteLine($"Empréstimo reprovado! Com {numParcelas} parcelas de {parcela}. As parcelas atingiram mais que 25% do salário bruto do cliente.");
+}
+*/
+
+/* EXERCICIO 9
+Console.WriteLine("Informe o tipo de combustível entre Álcool(A) ou Gasolina(G): ");
+string tipoCombustivel = Console.ReadLine();
+
+Console.WriteLine("Informe a capacidade do tanque em litros: ");
+double capacidadeTanque = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("Informe a quantidade de litros no tanque: ");
+double quantidadeNoTanque =  Convert.ToDouble(Console.ReadLine());
+
+double valorTotal;
+
+if (tipoCombustivel.ToLower() == "a")
+{
+    valorTotal = (capacidadeTanque - quantidadeNoTanque) * 3.04;
+    Console.WriteLine($"O valor total a ser pago para encher o tanque com Álcool é {valorTotal}");
+}
+else if(tipoCombustivel.ToLower() == "g")
+{
+    valorTotal = (capacidadeTanque - quantidadeNoTanque) * 4.84;
+    Console.WriteLine($"O valor total a ser pago para encher o tanque com Gasolina é {valorTotal}");
+}
+else
+{
+    Console.WriteLine("Tipo de combustível inválido! Digite A para álcool e G para gasolina.");
+}
+*/
