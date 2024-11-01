@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\OrientacaoObjetos\bin\Debug\OrientacaoObjetos.exe.config
+C:\Users\aluno\source\repos\OrientacaoObjetos\bin\Debug\OrientacaoObjetos.exe
+C:\Users\aluno\source\repos\OrientacaoObjetos\bin\Debug\OrientacaoObjetos.pdb
+C:\Users\aluno\source\repos\OrientacaoObjetos\obj\Debug\OrientacaoObjetos.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\OrientacaoObjetos\obj\Debug\OrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\OrientacaoObjetos\obj\Debug\OrientacaoObjetos.exe
+C:\Users\aluno\source\repos\OrientacaoObjetos\obj\Debug\OrientacaoObjetos.pdb
