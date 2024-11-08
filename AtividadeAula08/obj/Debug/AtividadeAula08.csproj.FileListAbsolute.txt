@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\AtividadeAula08\bin\Debug\AtividadeAula08.exe.config
+C:\Users\aluno\source\repos\AtividadeAula08\bin\Debug\AtividadeAula08.exe
+C:\Users\aluno\source\repos\AtividadeAula08\bin\Debug\AtividadeAula08.pdb
+C:\Users\aluno\source\repos\AtividadeAula08\obj\Debug\AtividadeAula08.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\AtividadeAula08\obj\Debug\AtividadeAula08.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\AtividadeAula08\obj\Debug\AtividadeAula08.exe
+C:\Users\aluno\source\repos\AtividadeAula08\obj\Debug\AtividadeAula08.pdb
