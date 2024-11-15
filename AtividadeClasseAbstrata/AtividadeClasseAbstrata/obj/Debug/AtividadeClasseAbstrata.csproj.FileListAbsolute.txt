@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\AtividadeClasseAbstrata\AtividadeClasseAbstrata\obj\Debug\AtividadeClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\AtividadeClasseAbstrata\AtividadeClasseAbstrata\obj\Debug\AtividadeClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\AtividadeClasseAbstrata\AtividadeClasseAbstrata\bin\Debug\AtividadeClasseAbstrata.exe.config
+C:\Users\aluno\source\repos\AtividadeClasseAbstrata\AtividadeClasseAbstrata\bin\Debug\AtividadeClasseAbstrata.exe
+C:\Users\aluno\source\repos\AtividadeClasseAbstrata\AtividadeClasseAbstrata\bin\Debug\AtividadeClasseAbstrata.pdb
+C:\Users\aluno\source\repos\AtividadeClasseAbstrata\AtividadeClasseAbstrata\obj\Debug\AtividadeClasseAbstrata.exe
+C:\Users\aluno\source\repos\AtividadeClasseAbstrata\AtividadeClasseAbstrata\obj\Debug\AtividadeClasseAbstrata.pdb
